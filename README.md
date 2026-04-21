@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Motivation
+## Motivation
 
 Education science researchers routinely work with datasets that are:
 - Full of **SPSS-style missing codes** (-9, -8, 999) that look like valid values
@@ -21,7 +21,7 @@ This pipeline directly addresses the data management challenges that Dr. Jessica
 
 ---
 
-## ✨ What This Pipeline Does
+## What This Pipeline Does
 
 ```
 Messy Raw CSV (SPSS codes, bad names, out-of-range values)
@@ -60,7 +60,7 @@ Messy Raw CSV (SPSS codes, bad names, out-of-range values)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 edu-research-data-pipeline/
@@ -95,7 +95,7 @@ edu-research-data-pipeline/
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ```bash
 git clone https://github.com/0xafraidoftime/edu-research-data-pipeline.git
@@ -108,7 +108,7 @@ python run_pipeline.py
 
 ---
 
-## 🔧 Key Modules
+## Key Modules
 
 ### `etl_pipeline.py`
 
@@ -143,7 +143,7 @@ python run_pipeline.py
 
 ---
 
-## 📋 Codebook Format (auto-generated)
+## Codebook Format (auto-generated)
 
 Each variable entry includes:
 
@@ -156,7 +156,7 @@ Each variable entry includes:
 
 ---
 
-## 🔒 De-identification (FERPA Alignment)
+## De-identification (FERPA Alignment)
 
 The pipeline supports two de-identification strategies:
 - **Drop**: Remove columns entirely (e.g., names, raw school IDs)
@@ -164,7 +164,7 @@ The pipeline supports two de-identification strategies:
 
 ---
 
-## 📚 References
+## References
 
 - Logan, J. A. R. (research on data management practices in learning sciences, Vanderbilt)
 - Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data, 3*, 160018.
@@ -173,7 +173,7 @@ The pipeline supports two de-identification strategies:
 
 ---
 
-## 👤 Author
+## Author
 
 **0xafraidoftime** — [GitHub](https://github.com/0xafraidoftime)
 
@@ -181,6 +181,6 @@ Built in alignment with Dr. Jessica Logan's work on improving research data mana
 
 ---
 
-## 📄 License
+## License
 
 MIT License — see [LICENSE](LICENSE) for details.
