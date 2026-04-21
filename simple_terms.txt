@@ -1,0 +1,12 @@
+Let's Clean Up This Giant Messy Pile of Papers
+
+Okay imagine a researcher spends 5 years collecting information about thousands of kids. They write everything down. But the problem is — it's a TOTAL MESS.
+Some numbers that look real are actually secret codes that mean "we don't know" (like writing -9 when you mean "this child was absent that day"). Some columns have weird names nobody understands. There's no guide explaining what any of it means. And if another researcher tries to use this data... they have absolutely no idea what they're looking at. 🤯
+This project is basically a super-powered cleaning robot for messy research data. It:
+
+Finds all those sneaky fake numbers and replaces them with "we don't know"
+Renames everything so it makes sense
+Checks if anything looks wrong or impossible
+And then — this is the coolest part — it automatically writes a full instruction manual for the dataset, so anyone in the world can pick it up and understand it immediately
+
+It's like taking a giant messy pile of papers, sorting them, labelling everything, and putting it all in a neat binder with a table of contents. So science can actually be shared, checked, and trusted. 
